@@ -40,7 +40,7 @@ Eurorack 8HP Simple 2 Envelope Generator using 555 time IC.
 |REL(2)|Release Time|
 
 ## Image
-
+![img](https://marksard.github.io/assets/photos/20240402_IMGP8681.jpg)
 
 ## Schematic
 
